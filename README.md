@@ -6,5 +6,8 @@ Perform semantic segmentation to classify each pixel in a cardiac MRI image whet
 
 # Dataset
 The data set is a series of cardiac images (specifically MRI short-axis (SAX) scans) that have been expertly labeled.<br>
-For example; On the left are the MRI images and the right are the expertly-segmented regions (often called contours). The portions of the images that are part of the LV are denoted in white.
+For example; On the left are the MRI images and the right are the expertly-segmented regions (often called contours). The portions of the images that are part of the LV are denoted in white.<br>
+
 ![image](https://user-images.githubusercontent.com/86055894/217485199-6bbfefc5-2a3a-4d3b-9031-403be41bdbd8.png)
+
+The data can be downloaded from https://www.cardiacatlas.org/sunnybrook-cardiac-data/
